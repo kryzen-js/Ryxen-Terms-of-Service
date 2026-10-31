@@ -1,6 +1,7 @@
 # RYXEN'S TERMS OF SERVICE [ToS]
-​**Effective Date: October 5, 2026
-Last Updated: October 31, 2026**
+​**Effective Date: October 5, 2026**
+
+**Last Updated: October 31, 2026**
 
 **​1. INTRODUCTION AND ACCEPTANCE OF TERMS**
 ​Welcome to Ryxen ("the Bot", "our", "us", or "we"). Ryxen is an automated service engineered to provide administration, moderation, utility, entertainment, audio playback, and custom workflow features for Discord servers. Originally created on October 5, 2026, Ryxen is made available through Discord’s API platform and maintained publicly via its official GitHub repository.
